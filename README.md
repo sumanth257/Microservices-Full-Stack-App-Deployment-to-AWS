@@ -30,7 +30,7 @@ High availability and fault tolerance
 
 Secure cloud infrastructure
 
-🚀 Technologies Used
+🚀 **Technologies Used**
 
 AWS (EC2, S3, ALB, IAM, RDS)
 
